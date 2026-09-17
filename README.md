@@ -2,7 +2,7 @@
 
 - Meu nome é  Ana Julia (SEM ACENTO) 
 
-- Estou no momento estudando na FATEC RIO PRETO para aprimorar meus conhecimenntos e ter novos também!
+- Estou no momento estudando na FATEC RIO PRETO no curso de ADS (Análise e desenvolvimento de Sistemas)para aprimorar meus conhecimentos e ter novos também!
 
 - Utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos!
 
